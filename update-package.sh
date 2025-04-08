@@ -1,7 +1,7 @@
 sudo apt-get update && sudo apt upgrade -y
 sudo apt install git
 sudo apt install curl
-sudo apt isntall wget
+sudo apt install wget
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-venv
